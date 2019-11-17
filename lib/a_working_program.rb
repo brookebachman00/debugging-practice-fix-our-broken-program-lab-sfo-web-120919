@@ -1,4 +1,4 @@
-def method
+def hello
   puts "Hello World!"
 end # Correct this to "Hello World!"
 
